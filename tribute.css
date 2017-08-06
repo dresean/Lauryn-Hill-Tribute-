@@ -1,0 +1,148 @@
+body{
+margin: 20px 20px;
+    max-width: 1900px;
+}
+
+.navtop { 
+background-color: #fff;
+position: relative;  
+right: 10px;
+}
+
+blockquote{
+    font-family:'Kelly Slab', cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+caption{
+    font-family:'Kelly Slab', cursive;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+.page-comments{
+    font-size: 30px;
+}
+
+.sn{
+    padding: 20px;
+}
+
+.comments-pic{
+    display: block;
+    float: left;
+    flex-wrap: nowrap;
+}
+
+.comment-photo{
+    padding: 20px;
+}
+
+.navtop a{
+
+display: inline-block;
+color: black;
+cursor: crosshair;
+margin: 4px 4px;
+padding: 14px 16px;
+text-decoration: none;
+font-family: 'Kelly Slab', cursive;
+font-size: 20px;
+border: 2px inset black;
+background-image: url("http://imgur.com/6Prm89R.jpg");
+}
+
+h1 {
+font-family: 'Megrim', cursive;
+text-shadow: 4px 4px white;
+background-image: url("http://imgur.com/6Prm89R.jpg");
+font-weight: bolder;       
+}
+
+.labels{
+    font-family: 'Megrim', cursive;
+text-shadow: 4px 4px white;
+background-image: url("http://imgur.com/6Prm89R.jpg");
+font-weight: bolder;
+}
+
+.album-label{
+    font-family: 'Megrim', cursive;
+text-shadow: 4px 4px white;
+background-image: url("http://imgur.com/6Prm89R.jpg");
+font-weight: bolder;
+    display: block;
+}
+
+p {
+font-size: 15px;
+font-family: 'Kelly Slab', cursive;
+line-height: 1.1;
+}
+
+figcaption{
+    font-family: 'Kelly Slab', cursive;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+div.photogrid {
+display: flex;
+flex-wrap: wrap;
+    border-right: 30px double lightgray;   
+}
+
+.fampic {
+    border: 2px double black;
+}
+
+.comments-text{
+text-shadow: 4px 4px white;
+    font-weight: bolder;
+font-family: 'Megrim', cursive;
+margin: 0 auto; 
+    background-image: url("http://imgur.com/6Prm89R.jpg");
+}
+
+.comment-box{    
+    overflow-y: scroll;
+    max-height: 1000px;
+    font-family: 'Kelly Slab', cursive;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+div.videos{
+ border-right: 30px double lightgray;      
+}
+
+section{
+    font-family: 'Megrim', cursive;
+    font-size: 30px; 
+    background-image: url("http://imgur.com/6Prm89R.jpg");
+    border-left: 10px double lightgrey;
+    border-bottom: 10px inset black;
+}
+
+.videor{
+    max-width: 100%;
+}
+
+.albums div{
+display: inline;
+    position: relative;
+    width: 100%;
+}
+
+.bio{
+    font-size: 22px;  
+}
+
+.copy{
+    font-family: 'Megrim', cursive;
+    font-size: 30px; 
+    background-image: url("http://imgur.com/6Prm89R.jpg");
+    border-left: 10px double lightgrey;
+    border-bottom: 10px inset black;
+}
